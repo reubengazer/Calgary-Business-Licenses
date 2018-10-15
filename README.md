@@ -9,3 +9,7 @@ This file includes the licensed businesses in the City of Calgary. Data fields i
 **License/URL Attribution:** https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa
 
 **Directly Exported from:** https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licences/vdjc-pybd
+
+**Example figure from this analysis**:
+
+![Calgary By Variable](/figs/community_boundaries_by_variable.png)
