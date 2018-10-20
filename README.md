@@ -14,6 +14,11 @@ Here I explore a dataset of license transactions made by businesses in Calgary, 
 - location: tuple of longitude, latitude as (longitude, latitude)
 - Count: just a column of 1s
 
+**Directory Description**
+
+fig/ -> Any saved figures are saved here.
+dat/ -> All data-files: raw, cleaned, and shapefiles of Calgary Community Boundaries
+
 **Notes**
 
 _All businesses created before October 7, 1994 reflect this date as their JOBCREATED date._ 
