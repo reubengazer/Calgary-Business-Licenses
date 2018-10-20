@@ -17,6 +17,7 @@ Here I explore a dataset of license transactions made by businesses in Calgary, 
 **Directory Description**
 
 fig/ -> Any saved figures are saved here.
+
 dat/ -> All data-files: raw, cleaned, and shapefiles of Calgary Community Boundaries
 
 **Notes**
